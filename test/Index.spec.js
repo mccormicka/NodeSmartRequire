@@ -1,6 +1,6 @@
 'use strict';
 
-describe('SHOULD', function () {
+describe('NodeSmartRequire Tests', function () {
 
     beforeEach(function(){
         require('../index');

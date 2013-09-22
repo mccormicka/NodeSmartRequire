@@ -1,6 +1,6 @@
 {
   "name": "NodeSmartRequire",
-  "description": "NodeSmartRequire",
+  "description": "NodeSmartRequire allows you to intelligently require modules instead of having to use ../../ paths",
   "version": "0.0.1",
   "author": {
     "name": "Anthony McCormick",
