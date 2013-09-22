@@ -1,5 +1,5 @@
 {
-  "name": "NodeSmartRequire",
+  "name": "nodesmartrequire",
   "description": "NodeSmartRequire allows you to intelligently require modules instead of having to use ../../ paths",
   "version": "0.0.1",
   "author": {
@@ -17,13 +17,13 @@
     "node": ">=0.6.19"
   },
   "bugs": {
-    "url": "https://github.com/mccormicka/NodeSmartRequire/issues"
+    "url": "https://github.com/mccormicka/nodesmartrequire/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mccormicka/NodeSmartRequire"
+    "url": "https://github.com/mccormicka/nodesmartrequire"
   },
-  "homepage": "https://github.com/mccormicka/NodeSmartRequire",
+  "homepage": "https://github.com/mccormicka/nodesmartrequire",
   "readmeFilename": "README.md",
   "dependencies": {
   },
